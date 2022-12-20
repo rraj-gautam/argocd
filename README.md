@@ -1,2 +1,2 @@
 # argocd
-install argocd using kustomize
+install argocd using kustomize,helm examples
